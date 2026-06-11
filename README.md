@@ -1,4 +1,5 @@
 ![Michael McKay photo](./michael-mckay-YiGvXVwrsVU-unsplash.jpg)
+[Michael McKay on Unsplash](https://unsplash.com/photos/napoleon-crowns-himself-emperor-and-josephine-YiGvXVwrsVU)
 
 # Napoleon-Complex-Skills
 A Claude Code agent framework inspired by Napoleon Bonaparte’s marshal system. Organizes AI agents into specialized roles for strategy, execution, quality, operations, and coordination, enabling complex software and business projects to be managed through structured delegation, command doctrine, and clear chains of responsibility.
