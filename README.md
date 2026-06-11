@@ -7,7 +7,7 @@ A Claude Code agent framework inspired by Napoleon Bonaparte’s marshal system.
 The main purpose of this repository is to continue evolving CEO thinking and methodology, making it faster and more efficient at scale.
 
 # Installation and Usage
-I vibe coded this between coffee, existential dread, and reading about Napoleonic military campaigns. Why would I tell you how to use it?
+I vibe-coded it somewhere between my third coffee, a mild existential crisis, and an unhealthy amount of reading about Napoleonic military campaigns. I don't have time for documentation.
 
 # Code of Conduct
 We have adopted the [Code civil des Français](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/1804-03-25) and we expect project participants to adhere to it. Please read the full text so that you can understand what actions will and will not be tolerated.
