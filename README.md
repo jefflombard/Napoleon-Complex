@@ -1,4 +1,6 @@
-# Napoleon-Complex
+![Michael McKay photo](./michael-mckay-YiGvXVwrsVU-unsplash.jpg)
+
+# Napoleon-Complex-Skills
 A Claude Code agent framework inspired by Napoleon Bonaparte’s marshal system. Organizes AI agents into specialized roles for strategy, execution, quality, operations, and coordination, enabling complex software and business projects to be managed through structured delegation, command doctrine, and clear chains of responsibility.
 
 The main purpose of this repository is to continue evolving CEO thinking and methodology, making it faster and more efficient at scale.
